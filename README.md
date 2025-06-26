@@ -18,16 +18,15 @@
 )
 
 ### ➕ Add Show
-![Add Show](![Screenshot 2025-06-27 010024](https://github.com/user-attachments/assets/bb2fd836-62f3-453f-b722-3947397fb423)
-)
+![Screenshot 2025-06-27 010024](https://github.com/user-attachments/assets/bb2fd836-62f3-453f-b722-3947397fb423)
 
 ### 📑 Booking Details
-![Bookings](![Screenshot 2025-06-27 010222](https://github.com/user-attachments/assets/334b5124-d0d8-4044-9b31-a810b31ace34)
-)
+![Screenshot 2025-06-27 010222](https://github.com/user-attachments/assets/334b5124-d0d8-4044-9b31-a810b31ace34)
+
 
 ### 🎟 User View + Ticket Booking
-![Buy Tickets](![Screenshot 2025-06-27 010301](https://github.com/user-attachments/assets/08d51e67-c041-4676-8557-557c42d041bf)
-)
+![Screenshot 2025-06-27 010301](https://github.com/user-attachments/assets/08d51e67-c041-4676-8557-557c42d041bf)
+
 
 ---
 
