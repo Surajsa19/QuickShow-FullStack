@@ -68,7 +68,9 @@ This project was built for learning, resume portfolio, and internship opportunit
 
 🙋‍♂️ Author
 Suraj Sa
-Linkedin - https://www.linkedin.com/in/suraj-sa-69a4b6289/
-💼 Portfolio: Coming Soon
+
+- Linkedin - https://www.linkedin.com/in/suraj-sa-69a4b6289/
+
+- 💼 Portfolio: Coming Soon
 
 
