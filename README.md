@@ -14,8 +14,7 @@
 ## 🖼️ Screenshots
 
 ### 🎛 Admin Dashboard
-![Admin Dashboard](![Screenshot 2025-06-27 005942](https://github.com/user-attachments/assets/a8133ed9-9d0b-496d-be5e-79f8f5d00209)
-)
+![Screenshot 2025-06-27 005942](https://github.com/user-attachments/assets/a8133ed9-9d0b-496d-be5e-79f8f5d00209)
 
 ### ➕ Add Show
 ![Screenshot 2025-06-27 010024](https://github.com/user-attachments/assets/bb2fd836-62f3-453f-b722-3947397fb423)
