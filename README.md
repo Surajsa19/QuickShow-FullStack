@@ -1,6 +1,6 @@
 # 🎬 QuickShow – Full Stack Movie Ticket Booking Platform
 
-> An end-to-end movie booking system with real-time seat selection, secure Stripe payments, admin dashboard, and TMDB integration.
+> Quick‑Show is a modern, full-stack job and content platform built with Vite + React on the frontend and Node.js/Express on the backend. It features an intuitive user interface, a powerful admin dashboard, secure authentication, and real-time job and content management.
 
 ---
 
@@ -14,19 +14,20 @@
 ## 🖼️ Screenshots
 
 ### 🎛 Admin Dashboard
-![Admin Dashboard](./screenshots/admin-dashboard.png)
+![Admin Dashboard](![Screenshot 2025-06-27 005942](https://github.com/user-attachments/assets/a8133ed9-9d0b-496d-be5e-79f8f5d00209)
+)
 
 ### ➕ Add Show
-![Add Show](./screenshots/add-shows.png)
-
-### 📋 List All Shows
-![List Shows](./screenshots/list-shows.png)
+![Add Show](![Screenshot 2025-06-27 010024](https://github.com/user-attachments/assets/bb2fd836-62f3-453f-b722-3947397fb423)
+)
 
 ### 📑 Booking Details
-![Bookings](./screenshots/list-bookings.png)
+![Bookings](![Screenshot 2025-06-27 010222](https://github.com/user-attachments/assets/334b5124-d0d8-4044-9b31-a810b31ace34)
+)
 
 ### 🎟 User View + Ticket Booking
-![Buy Tickets](./screenshots/user-booking.png)
+![Buy Tickets](![Screenshot 2025-06-27 010301](https://github.com/user-attachments/assets/08d51e67-c041-4676-8557-557c42d041bf)
+)
 
 ---
 
